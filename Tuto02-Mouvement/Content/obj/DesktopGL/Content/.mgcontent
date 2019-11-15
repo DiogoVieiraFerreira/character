@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Prog/csharp/Monogame/Tuto02-Mouvement/Tuto02-Mouvement/Content/Health/bg.png</File>
+    <File>E:/Prog/csharp/Monogame/Tuto02-Mouvement/Tuto02-Mouvement/Content/Health/full.png</File>
+    <File>E:/Prog/csharp/Monogame/Tuto02-Mouvement/Tuto02-Mouvement/Content/Health/Health.spritefont</File>
+    <File>E:/Prog/csharp/Monogame/Tuto02-Mouvement/Tuto02-Mouvement/Content/Health/Health2.spritefont</File>
+    <File>E:/Prog/csharp/Monogame/Tuto02-Mouvement/Tuto02-Mouvement/Content/Player/WalkDown.png</File>
+    <File>E:/Prog/csharp/Monogame/Tuto02-Mouvement/Tuto02-Mouvement/Content/Player/WalkLeft.png</File>
+    <File>E:/Prog/csharp/Monogame/Tuto02-Mouvement/Tuto02-Mouvement/Content/Player/WalkLeftSquating.png</File>
+    <File>E:/Prog/csharp/Monogame/Tuto02-Mouvement/Tuto02-Mouvement/Content/Player/WalkRight.png</File>
+    <File>E:/Prog/csharp/Monogame/Tuto02-Mouvement/Tuto02-Mouvement/Content/Player/WalkRightSquating.png</File>
+    <File>E:/Prog/csharp/Monogame/Tuto02-Mouvement/Tuto02-Mouvement/Content/Player/WalkUp.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
